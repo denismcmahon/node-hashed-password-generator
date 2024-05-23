@@ -1,0 +1,23 @@
+{
+  "name": "hashed-password-generator",
+  "version": "1.0.0",
+  "description": "Node application to hash a password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denismcmahon/node-hashed-password-generator.git"
+  },
+  "keywords": [],
+  "author": "Denis McMahon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denismcmahon/node-hashed-password-generator/issues"
+  },
+  "homepage": "https://github.com/denismcmahon/node-hashed-password-generator#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1"
+  }
+}
